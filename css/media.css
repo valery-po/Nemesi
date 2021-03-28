@@ -1,0 +1,1584 @@
+@media(max-width: 1300px) {
+  .header {
+    height: 200px;
+  }
+
+  .header__nav {
+
+    padding: 0 90px;
+  }
+
+  .header__logo {
+    width: 70%;
+   padding: 70px 0;
+  }
+  
+  .search-box input {
+    font-size: 18px;
+    padding: 0 60px 0 10px;
+  }
+
+  .content-row__title {
+    min-width: 100%;
+  }
+
+  .content-row__text {
+    width: 100%;
+  }
+
+  .content__model {
+    width: 100%;
+    height: 600px;
+  }
+
+  .brands-container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 30px;
+  }
+
+  .brand-item-3 {
+    width: 33%;
+  }
+
+  .brand-of-join--img {
+
+    max-width: 100%;
+    object-fit: cover;
+    object-position: center;
+    background-image: url(../Brands-block/JOIN.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .brand-of__title {
+    font-size: 30px;
+  }
+
+  .brand-of-nike__title {
+    font-size: 35px;
+    width: 100%;
+  }
+
+  .brand-of__nike {
+    padding: 35px 29px;
+  }
+
+  .brand-of-nike__content {
+    width: 100%;
+  }
+
+  .brand-of-storehouse__subtitle {
+    margin-bottom: 0;
+  }
+
+  .brand-of__content {
+    width: 100%;
+  }
+
+  .brand-of-reader__subtitle {
+    font-size: 25px;
+    color: #b7b7b7;
+    font-family: "Playfair Display";
+    font-weight: 400;
+    font-style: italic;
+    margin: 0px;
+  }
+
+  .brand-of__blackwear span {
+    left: -50px;
+    font-size: 170px;
+  }
+
+  .brand-of-blackwear__title {
+    font-size: 38px;
+  }
+
+  .brand-of-reader__title {
+    font-size: 50px;
+    line-height: normal;
+  }
+
+  .brand-of__blackwear {
+    height: 617px;
+  }
+
+  .brand-of-nike--img {
+    max-width: 100%;
+    object-fit: cover;
+    object-position: center;
+    background-color: #5a2478;
+    background-image: url(../Brands-block/nike.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+  }
+
+
+  .brand-item-2 {
+    width: 33%;
+    position: relative;
+  }
+
+  .brand-of-model__img {
+    right: 0;
+  }
+
+  .brand-of__storehouse {
+    width: 100%;
+    background-color: #5d257c;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 38px;
+    padding-bottom: 38px;
+    padding-left: 37px;
+    padding-right: 37px;
+  }
+
+
+  .brand-of-storehouse__item {
+
+    max-width: 100%;
+    height: 172px;
+    background-color: #5d257c;
+    border: 3px solid #873ab1;
+
+  }
+
+  .brand-of-storehouse__title {
+    font-size: 30px;
+  }
+
+
+
+  .brand-of__model {
+    height: 605px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+
+  }
+
+  .brand-of-model__img {
+    max-width: 100%;
+
+    object-position: center;
+    background-color: #f4f4f4;
+  }
+
+  .brand-item-1 {
+    width: 33%;
+    position: relative;
+  }
+
+  .brand-of-blackwear--img {
+    max-width: 100%;
+    object-fit: cover;
+    object-position: center;
+    background-image: url(../Brands-block/photo-1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+  }
+
+  .brand-of__reader {
+    background-color: #f4f4f4;
+    position: absolute;
+    width: unset;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .container-photo {
+    max-width: 100%
+  }
+
+  .photo-wrapper {
+    max-width: 100%;
+    height: 100%;
+    padding-top: 0px;
+    padding-bottom: 56px;
+  }
+
+  .block-photo__inspiration {
+    display: flex;
+    justify-content: center;
+    width: 36%;
+    height: 64%;
+}
+
+  .photo-number {
+    bottom: 15%;
+  }
+
+  .block-photo__title {
+    padding-bottom: 0;
+  }
+
+  .block-photo__row {
+    width: 100%;
+  }
+
+  .photo-block__img {
+    position: static;
+    left: 0;
+  }
+
+  .photo__img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .photo-block.content-row__item {
+    width: 50%;
+  }
+
+  .photo-block.content-row__title {
+    width: 100%;
+    margin-bottom: 43px;
+    margin-top: 34px;
+  }
+
+  .photo-block.content-row__text {
+    width: 100%;
+
+    margin-bottom: 33px;
+    font-size: 24px;
+  }
+
+  .best-outfit {
+    bottom: 6%;
+  }
+
+  .Photos {
+    padding-bottom: 100px;
+  }
+
+  .gallery {
+    width: 100%;
+  }
+
+  .gallery__nature {
+    width: 100%;
+  }
+
+  .gallery__title {
+    text-align: center;
+    font-size: 50px;
+  }
+
+  .gallery__title--suit {
+    line-height: 60px;
+    font-size: 50px;
+  }
+
+  .gallery__suit {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 0px
+  }
+
+  .gallery__watch {
+    width: 40%;
+
+  }
+
+  .gallery__title--watch {
+    font-size: 58px;
+  }
+
+  .inspiration {
+    padding-top: 70px;
+  }
+
+  .container-inspiration {
+    max-width: 100%;
+  }
+
+  .block-item__inspiration {
+    width: 50%;
+  }
+
+  .block-title__inspiration {
+    text-align: center;
+    font-size: 50px;
+  }
+
+  .block-item__nemesis {
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 25px;
+  }
+
+  .block-menu__item {
+    flex-wrap: wrap;
+  }
+
+  .list-of__items {
+    font-size: 30px;
+    margin-left: 60px;
+  }
+
+  .link-of__items::after {
+    display: none;
+  }
+
+  .list-of__items:first-child {
+    margin-left: 40px;
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 990px) {
+  .header {
+    height: 180px;
+  }
+
+  /* .header__search {
+    padding: 0 70px;
+  } */
+
+  .header__nav {
+
+    padding: 0 40px;
+  }
+
+  .header__logo {
+    width: 60%;
+    padding: 70px 0;
+
+  }
+
+  .logo {
+    font-size: 36px;
+  }
+
+  .header-promo__content {
+    padding: 35px;
+    width: 53%;
+  }
+
+  .button-outline {
+    font-size: 14px;
+    padding: 9px 30px;
+  }
+
+  .header-promo__title {
+    margin-bottom: 40px;
+    font-size: 30px;
+  }
+
+  .header-promo__category {
+    font-size: 18px;
+    margin-bottom: 35px;
+    padding-bottom: 30px;
+
+  }
+
+  .header-promo__row {
+    height: 690px;
+  }
+
+  .header-promo__img {
+    width: 73%;
+  }
+
+  .content-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+
+  .content-row--reverse {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+  }
+
+  .content-row__item {
+    width: 400px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .content-row__title {
+    line-height: 40px;
+    font-size: 35px;
+    min-width: 165px;
+  }
+
+  .content-row__text {
+    font-size: 20px;
+    width: 300px;
+  }
+
+  .content__model {
+    height: 520px;
+
+  }
+
+  .brands-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .brand-item-1 {
+    width: 100%;
+    height: 900px;
+    margin-bottom: 30px;
+  }
+
+  .brand-of-blackwear--img {
+
+    max-width: 100%;
+    object-fit: cover;
+  }
+
+  .brand-of__blackwear {
+    width: 965px;
+  }
+
+
+  .brand-of__blackwear span {
+    font-size: 270px;
+  }
+
+  .brand-of-blackwear__subtitle {
+    font-size: 30px;
+    line-height: 61px;
+  }
+
+  .brand-of-blackwear__title {
+
+    font-size: 68px;
+    margin-bottom: 130px;
+  }
+
+  .brand-of-blackwear__button {
+    width: 220px;
+    height: 71px;
+    margin-bottom: 94px;
+    font-size: 20px;
+  }
+
+  .brand-of__reader {
+    bottom: 0;
+  }
+
+  .brand-of__content {
+    padding-left: 69px;
+    width: 100%;
+  }
+
+  .brand-of-reader__subtitle {
+    font-size: 30px;
+
+  }
+
+  .brand-of-reader__title {
+    font-size: 68px;
+    margin-bottom: 40px;
+
+  }
+
+  .brand-of-reader__button {
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 23px;
+    padding-bottom: 18px;
+    height: 71px;
+    font-size: 20px;
+  }
+
+
+
+  .brand-item-2 {
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-bottom: 30px;
+  }
+
+  .brand-of__storehouse {
+    width: 90%;
+    height: 605px;
+    padding-right: 49px;
+  }
+
+  .brand-of-storehouse__item {
+    width: 100%;
+  }
+
+  .brand-of-storehouse__title {
+
+    font-size: 35px;
+    margin-bottom: 10px;
+  }
+
+  .brand-of-storehouse__subtitle {
+    font-size: 16px;
+
+  }
+
+  .brand-of__model {
+
+    height: 605px;
+    width: 100%;
+  }
+
+  .brand-of-arrow__img--right {
+    display: none;
+  }
+
+  .brand-of-arrow__img--left {
+    display: none;
+  }
+
+  .brand-of-model__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .brand-item-3 {
+
+    width: 100%;
+    display: flex;
+    height: 100%;
+  }
+
+  .brand-of-join--img {
+
+    max-width: 100%;
+    object-fit: cover;
+
+  }
+
+  .brand-of__join {
+    height: 350px;
+    width: 120%;
+  }
+
+  .brand-of__title {
+    font-size: 38px;
+    line-height: 50px;
+  }
+
+  .brand-of-nike--img {
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .brand-of__nike {
+    width: 100%;
+    height: 350px;
+
+  }
+
+  .brand-of-nike__title {
+    font-size: 30px;
+    line-height: 45px;
+    width: 100%;
+  }
+
+  .brand-of-nike__button {
+    width: 149px;
+    height: 41px;
+  }
+
+  .block-photo__row {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .photo-block__img {
+    width: 100%;
+    height: 100%;
+    /*		padding-right: 0px;*/
+  }
+
+  .photo__img {
+    object-fit: cover;
+    height: 100%;
+  }
+
+  .content-row__button {
+    margin-bottom: 0px;
+  }
+
+  .photo-number {
+    display: none;
+  }
+
+  .block-photo__inspiration {
+    display: none;
+  }
+
+  .photo-block.content-row__item {
+    width: 100%;
+  }
+
+  .block-photo__title {
+    font-size: 48px;
+  }
+
+  .block-photo__title span {
+    font-size: 25px;
+  }
+
+  .best-outfit {
+    display: none;
+  }
+
+  .Photos {
+    padding-bottom: 200px;
+  }
+
+  .gallery {
+    width: 100%;
+    padding-top: 170px;
+  }
+
+  .gallery__nature {
+    width: 100%;
+  }
+
+  .gallery__title {
+    font-size: 38px;
+    line-height: 60px;
+    text-align: center;
+  }
+
+
+  .gallery__suit {
+    width: 100%;
+    padding-bottom: 0px;
+    align-items: flex-end;
+  }
+
+  .owl-carousel.owl-theme .owl-nav button.owl-next {
+    right: 220px;
+  }
+
+  .owl-carousel.owl-theme .owl-nav button.owl-prev {
+    transform: translate(-150%);
+  }
+
+  .gallery__title--suit {
+    text-align: center;
+    font-size: 38px;
+    line-height: 70px;
+  }
+
+  .gallery__icons-arrow {
+    height: 100px;
+  }
+
+  .gallery__watch {
+    width: 50%;
+  }
+
+  .inspiration {
+    padding-top: 70px;
+  }
+
+  .container-inspiration {
+    width: 100%;
+  }
+
+  .block-item__inspiration {
+    width: 90%;
+  }
+
+  .block-title__inspiration {
+    text-align: center;
+    font-size: 56px;
+  }
+
+  .block-item__nemesis {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .list-of__items:not(:first-child) {
+    margin-left: 60px;
+  }
+
+  .block-menu__item {
+    flex-wrap: wrap;
+  }
+
+  .list-of__items {
+    font-size: 30px;
+    margin-left: 60px;
+  }
+
+  .link-of__items::after {
+    display: none;
+  }
+
+  .list-of__items:first-child {
+    margin-left: 40px;
+  }
+
+  .photo-block.content-row__text {
+    padding-top: 20px;
+  }
+
+}
+
+
+
+
+@media(max-width: 700px) {
+  .header {
+    height: 130px;
+  }
+
+  .header__nav {
+    padding: 0 10px;
+  }
+  .search-box input {
+    font-size: 16px;
+  }
+  
+  .search-box .search-btn {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .search-box .cancel-btn.active {
+    right: 50px;
+  }
+
+  .mobile-nav {
+    width: 330px;
+    right: -330px;
+  }
+
+  .header__logo {
+    padding: 40px 0;
+  }
+
+  .logo {
+    font-size: 36px;
+  }
+
+  .header-promo__content {
+    padding: 30px;
+    width: 49%;
+  }
+
+  .button-outline {
+    font-size: 12px;
+    padding: 7px 14px;
+  }
+
+  .header-promo__title {
+    margin-bottom: 30px;
+    font-size: 20px;
+  }
+
+  .header-promo__category {
+    font-size: 16px;
+    margin-bottom: 25px;
+    padding-bottom: 30px;
+
+  }
+
+  .header-promo__row {
+    height: 590px;
+  }
+
+  .header-promo__img {
+    width: 73%;
+  }
+
+  .content-row {
+    padding-top: 10px;
+  }
+
+  .content-row {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+
+
+  .description-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 10px;
+  }
+
+  .description-block--reverse {
+    flex-direction: column-reverse;
+  }
+
+  .description-block:last-child {
+    margin-right: 0;
+  }
+
+  .content-row__date,
+  .content-row__date span {
+    font-size: 14px;
+  }
+
+  .content-row__item {
+    width: 95%;
+    padding: 20px 0 20px 20px;
+  }
+
+  .content-row__title {
+    min-width: 100%;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
+
+  .content-row__title::after {
+    margin-bottom: 20px;
+  }
+
+  .content-row__text {
+    width: 100%;
+    font-size: 14px;
+    margin-bottom: 35px;
+    margin-top: 0;
+  }
+
+  .content-row__button {
+    padding: 12px 20px 0 20px;
+    font-size: 14px;
+    height: 42px;
+  }
+
+  .brand-item-1 {
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .brand-of__blackwear {
+    width: 630px;
+    height: 635px;
+  }
+
+  .brand-of-blackwear--img {
+    object-fit: cover;
+    max-width: 100%;
+  }
+
+  .brand-of__blackwear span {
+    line-height: 1;
+    font-size: 160px;
+    position: absolute;
+    top: 30%;
+  }
+
+  .brand-of-blackwear__title {
+    font-size: 40px;
+    line-height: 60px;
+    margin-bottom: 80px;
+  }
+
+  .brand-of-blackwear__button {
+    width: 180px;
+    padding: 10px 25px 10px 25px;
+    height: 51px;
+    font-size: 16px;
+  }
+
+  .brand-of__reader {
+    width: 100%;
+    height: 30%;
+    padding: 25px;
+  }
+
+  .brand-of__content {
+    padding-left: 0;
+    width: 100%;
+  }
+
+  .brand-of-reader__subtitle {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0px;
+  }
+
+  .brand-of-reader__title {
+    font-size: 40px;
+    line-height: 1;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.brand-of-reader__button {
+    padding: 15px 25px 10px 25px;
+    height: 51px;
+    font-size: 16px;
+    float: none;
+  }
+
+  .brand-item-2 {
+    max-width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+  }
+
+  .brands-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+
+
+  .brand-of__storehouse {
+    width: 100%;
+    height: 100%;
+    padding: 28px 37px 28px 37px;
+  }
+
+  .brand-of-storehouse__item {
+    width: 100%;
+    height: 80%;
+  }
+
+
+  .brand-of-storehouse__title span {
+    font-size: 18px;
+  }
+
+  .brand-of-storehouse__title {
+    font-size: 35px;
+  }
+
+  .brand-of-storehouse__subtitle {
+    margin-bottom: 32px;
+  }
+
+  .brand-of__model {
+    width: 100%;
+    height: 650px;
+    display: flex;
+    justify-content: center;
+
+  }
+
+  .brand-of-arrow__img--right,
+  .brand-of-arrow__img--left {
+
+    display: none;
+  }
+
+  .brand-of-model__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .brand-item-3 {
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+
+  }
+
+  .brand-of-join--img {
+    max-width: 100%;
+    object-fit: cover;
+  }
+
+  .brand-of__title {
+    font-size: 40px;
+  }
+
+  .brand-of-nike--img {
+    max-width: 100%;
+    object-fit: cover;
+  }
+
+  .brand-of-nike__title {
+    max-width: 100%;
+    font-size: 40px;
+  }
+
+  .container-photo {
+    max-width: 95%;
+  }
+
+  .photo-wrapper {
+    padding-top: 0px;
+    padding-bottom: 46px;
+  }
+
+  .photo-number {
+    width: 200px;
+    font-size: 200px;
+    bottom: 40%;
+  }
+
+  .block-photo__title {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .block-photo__title span {
+    font-size: 20px;
+  }
+
+  .photo-block.content-row__title {
+    font-size: 24px;
+    line-height: 40px;
+    max-width: 100%;
+    margin: 0;
+  }
+
+  .photo-block.content-row__text {
+
+    margin-bottom: 33px;
+    font-size: 18px;
+    padding-top: 30px;
+    line-height: 30px;
+
+  }
+
+  .Photos {
+    padding-bottom: 0px;
+  }
+
+  .photo-block__img {
+    width: 100%;
+    height: 50%;
+  }
+
+  .gallery {
+    width: 100%;
+    padding-top: 50px;
+  }
+
+  .gallery__title {
+    font-size: 28px;
+  }
+
+  .gallery__title--suit {
+    font-size: 28px;
+    line-height: 50px;
+  }
+
+  .gallery__icons-arrow {
+    display: none;
+  }
+
+  .gallery__subtitle {
+    text-align: center;
+  }
+
+
+  .inspiration {
+    padding-top: 70px;
+  }
+
+  .container-inspiration {
+    width: 100%;
+  }
+
+  .block-item__inspiration {
+    width: 90%;
+    padding: 20px;
+  }
+
+  .block-title__inspiration {
+    text-align: center;
+    font-size: 40px;
+  }
+
+  .block-item__nemesis {
+    width: 100%;
+  }
+
+  .block-menu__item {
+    flex-wrap: wrap;
+  }
+
+  .link-of__items {
+    font-size: 25px;
+  }
+
+  .link-of__items::after {
+    display: none;
+  }
+
+  .list-of__items:not(:first-child) {
+    margin-left: 30px;
+  }
+
+  .list-of__nemesis {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style-type: none;
+    margin: 0;
+    margin-right: 20px;
+    padding: 0;
+  }
+  
+}
+
+
+  @media (max-width: 460px) {
+    .header {
+      height: 120px;
+    }
+
+    .header__search {
+      padding: 0 30px;
+    }
+
+    .header__nav {
+      padding: 0 20px;
+    }
+
+    .header__logo {
+      padding: 40px 0;
+     }
+    
+    .header__logo.active {
+     display: none;
+     }
+
+    .logo {
+      font-size: 24px;
+    }
+
+    .header-promo__content {
+      padding: 20px;
+    }
+
+    .button-outline {
+      font-size: 8px;
+      line-height: 1.48;
+      padding: 5px 9px;
+    }
+
+    .header-promo__title {
+      margin-bottom: 20px;
+      font-size: 14px;
+    }
+
+    .header-promo__category {
+      font-size: 14px;
+      margin-bottom: 25px;
+      padding-bottom: 20px;
+
+    }
+
+    .header-promo__row {
+      height: 550px;
+    }
+
+    .header-promo__img {
+      width: 100%;
+    }
+
+    .content {
+      padding-top: 30px;
+    }
+
+    .content-row {
+      flex-direction: column;
+
+    }
+
+    .content-block__description {
+      flex-direction: column;
+    }
+
+    .description-block--reverse {
+      flex-direction: column-reverse;
+    }
+
+    .content__model {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+
+    .content-row__title {
+      font-size: 25px;
+      margin-bottom: 39px;
+      line-height: 41px;
+    }
+
+    .content-row__text {
+      margin-bottom: 31px;
+    }
+
+    .content-row__button {
+      display: inline-block;
+      padding-top: 10px;
+      padding-left: 20px;
+      padding-right: 20px;
+      text-decoration: none;
+      height: 40px;
+      background-color: rgba(93, 37, 124, 0);
+      border: 3px solid #ededed;
+      color: #000;
+      font-weight: 900;
+      cursor: pointer;
+      transition: all 0.2s;
+      font-size: 12px;
+    }
+
+    .description-block {
+      margin: 0;
+    }
+
+    .brands-wrapper {
+      flex-direction: column;
+    }
+
+    .brand-item-1 {
+      height: 590px;
+      margin-bottom: 0;
+    }
+
+    .brand-of__blackwear {
+      height: 405px;
+      padding-bottom: 40px;
+
+    }
+
+    .brand-of__blackwear span {
+      font-size: 120px;
+      line-height: 186px;
+      left: 0px;
+
+    }
+
+    .brand-of-blackwear__subtitle {
+      font-size: 16px;
+      line-height: 11px;
+    }
+
+    .brand-of-blackwear__title {
+      font-size: 28px;
+      margin-bottom: 80px;
+    }
+
+    .brand-of-blackwear__button {
+      width: 149px;
+      height: 41px;
+      font-size: 12px;
+      margin-bottom: 0px;
+    }
+
+    .brand-of__reader {
+      height: 160px;
+      width: 100%;
+      position: relative;
+      padding: 20px 20px 20px 0;
+
+    }
+
+    .brand-of__content {
+      padding-left: 0;
+      max-width: 100%;
+    }
+
+    .brand-of-reader__subtitle {
+      font-size: 20px;
+      margin-bottom: 0px;
+      display: block;
+      text-align: center;
+    }
+
+    .brand-of-reader__title {
+      font-size: 30px;
+      line-height: 50px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    .brand-of-reader__button {
+      padding-left: 25px;
+      padding-right: 25px;
+      padding-top: 15px;
+      height: 41px;
+      font-size: 12px;
+      float: none;
+      text-align: center;
+    }
+
+    .brand-item-2 {
+      width: 100%;
+      height: 100%;
+      margin-bottom: 30px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .brand-of__storehouse {
+      width: 100%;
+      height: 150px;
+      padding: 38px 27px 38px 27px;
+    }
+
+    .brand-of-storehouse__title span {
+      display: block;
+      margin-top: 20px;
+    }
+
+    .brand-of-storehouse__title {
+      font-size: 20px;
+      margin: 0;
+    }
+
+    .brand-of-storehouse__subtitle {
+      font-size: 12px;
+      margin-bottom: 22px;
+    }
+
+    .brand-of-storehouse__item {
+      width: 100%;
+      height: 170px;
+     }
+
+    .brand-of__model {
+      width: 100%;
+      height: 350px;
+      display: flex;
+      justify-content: center;
+      align-content: center;
+    }
+
+    .brand-of-arrow__img--right,
+    .brand-of-arrow__img--left {
+      display: none;
+    }
+
+    .brand-of-model__img {
+      max-width: 100%;
+      object-fit: cover;
+      max-height: 100%;
+     }
+
+    .brand-item-3 {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+     }
+
+    .brand-of__join {
+      width: 100%;
+      height: 180px;
+     }
+
+    .brand-of__nike {
+      width: 100%;
+      height: 305px;
+    }
+
+    .brand-of__subtitle {
+      font-size: 20px;
+    }
+
+    .brand-of__title {
+      font-size: 30px;
+      line-height: 35px;
+    }
+
+    .brand-of-nike__title {
+      font-size: 30px;
+      line-height: 45px;
+      margin-bottom: 26px;
+    }
+
+    .block-photo__inspiration {
+      display: none;
+    }
+
+    .photo-block.content-row__item {
+      width: 100%;
+    }
+
+    .carousel__item {
+      height: 355px;
+    }
+
+
+    .photo-block__img {
+      height: 50%;
+    }
+
+
+    .gallery {
+      height: auto;
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      padding-bottom: 40px;
+    }
+
+    .gallery__nature {
+
+      height: 400px;
+      width: 100%;
+
+    }
+
+    .gallery__subtitle {
+      font-size: 18px;
+      text-align: center;
+    }
+
+    .gallery__title {
+      font-size: 20px;
+      line-height: 40px;
+    }
+
+    .gallery__suit {
+      width: 100%;
+      height: 400px;
+      align-items: center;
+    }
+
+    .gallery__icons-arrow {
+      display: none;
+    }
+
+    .gallery__title--suit {
+      text-align: center;
+      font-size: 20px;
+      line-height: 40px;
+
+    }
+
+    .gallery__watch {
+      width: 100%;
+      height: 400px;
+
+    }
+
+    .gallery __title--watch {
+      font-size: 38px;
+      line-height: 50px;
+
+    }
+
+    .inspiration {
+      padding-top: 0px;
+    }
+
+    .container-inspiration {
+      width: 100%;
+    }
+
+    .block-item__inspiration {
+
+      width: 90%;
+      text-align: center;
+      height: 132px;
+      margin-bottom: 40px;
+    }
+
+    .block-title__inspiration {
+      font-size: 25px;
+      line-height: 50px;
+    }
+
+    .block-item__nemesis {
+      width: 100%;
+    }
+
+    .link-of__items::after {
+      display: none;
+    }
+
+    .list-of__items {
+      margin-left: 20px;
+      font-size: 22px;
+    }
+
+
+    .block-menu__item {
+      display: flex;
+      flex-wrap: wrap;
+
+    }
+
+    .list-of__nemesis {
+      flex-wrap: wrap;
+      margin-right: 20px;
+    }
+
+    .list-of__items:first-child {
+      margin-left: 30px;
+    }
+
+    .list-of__items:nth-child(3n) {
+      margin-left: 30px;
+    }
+
+    .block-copyright__nemesis {
+      font-size: 19px;
+      line-height: 30px;
+
+    }
+
+
+    .social-link {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-right: 0px;
+      margin-bottom: 10px;
+    }
+
+    .link-of__items {
+      font-size: 16px;
+
+    }
+
+  }
+
+@media(max-width: 280px){
+  .link-of__items {
+    font-size: 16px;
+  }
+  
+  .header__nav {
+    padding: 0 10px;
+  }
+
+}
